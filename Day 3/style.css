@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+
+h1 {
+    padding: 50px;
+    margin-top: 50px;
+    font-size: 50px;
+    color:rgb(226, 119, 194)
+}
+
+
+.container {
+    padding: 5%;
+    background-color: rgb(145, 250, 107);
+    opacity: 50%;
+}
+
+.ol {
+    background-color: rgb(58, 197, 67);
+    padding: 50px;
+}
+
+#style {
+    padding: 50px;
+    background-color: rgb(170, 52, 119);
+
+}
+
+td {
+    padding: 50px;
+    border-radius: 10%;
+    border-style: solid;
+}
+
+th {
+    border-style: solid;
+}
+
+input {
+    padding: 10px;
+    border-style: hidden;
+    background-color: rgb(58, 211, 86);
+}
